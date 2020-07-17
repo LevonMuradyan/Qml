@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/grid.png</file>
+        <file>images/app_icon.png</file>
+        <file>images/colosseum.jpg</file>
+        <file>images/cristor_redentor.jpg</file>
+        <file>images/eifel.jpg</file>
+        <file>images/great_wall.jpg</file>
+        <file>images/monastry.jpg</file>
+        <file>images/pyramids.jpg</file>
+        <file>images/taj_mahal.jpg</file>
+        <file>images/options.png</file>
+        <file>images/option.png</file>
+        <file>images/grid1.png</file>
+    </qresource>
+</RCC>
